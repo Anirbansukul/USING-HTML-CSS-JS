@@ -1,0 +1,34 @@
+#Main{
+    margin: auto;
+    display:inline-block;
+    justify-content: center;
+    height:auto;
+    width:100%;
+}
+h1{
+    text-align: center;
+}
+#Main-1{
+    justify-content:space-evenly;
+    margin:90px;
+    padding-left:34%;
+}
+#Main-2{
+padding-left: 47%;
+}
+#r,#p,#s{
+    background-color:rgb(247, 134, 5);
+    color: black;
+}
+#reset{
+    background-color: black;
+    color:white;
+}
+#r,#p,#s,#reset{
+    height: 50px;
+    width: 120px;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    
+}
